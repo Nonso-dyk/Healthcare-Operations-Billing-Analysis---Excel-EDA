@@ -1,0 +1,57 @@
+PROJECT SCENARIO
+
+BACKGROUND
+
+A regional healthcare network operating multiple hospitals has compiled patient encounter data spanning 2019 to 2024 ahead of its next budget planning cycle. The Chief Operating Officer's office has engaged an analyst to turn this raw data into a diagnostic report that hospital administrators and finance leadership can use directly in planning discussions.
+
+Three concerns have been flagged as priorities for this review:
+
+1. Rising costs that do not appear to be tied to any obvious single cause.
+2. Uneven patient load across the network's hospitals.
+3. Limited understanding of the demographic profile of patients and how billing patterns vary across different patient groups.
+
+The COO's office has also asked whether cost patterns differ between patients on privately held insurance plans and those on government-backed plans, as this distinction matters for upcoming reimbursement negotiations.
+
+BUSINESS QUESTIONS
+
+1. Patient Volume & Capacity Planning  
+(Relevant to uneven patient loads and staffing decisions.)
+
+- How is total patient volume trending over time?
+- Which hospitals are seeing the highest patient volume?
+- How does volume break down by admission type (Emergency, Elective, Urgent)? Are emergency admissions placing disproportionate strain on capacity relative to planned admissions?
+
+2. Cost & Billing Patterns  
+(Relevant to investigating rising costs and supporting budget planning and reimbursement negotiations.)
+
+- What is the average billing amount, and how does it vary by medical condition?
+- Does admission type affect billing amount? Are emergency admissions significantly costlier than elective ones?
+- Is there a relationship between length of stay and billing amount? Yes
+- How does billing vary by insurance provider, and does it differ between privately held and government-backed plans? 
+
+3. Patient Demographics  
+(Relevant to understanding the patient population and how billing patterns vary across different patient groups.)
+
+- What is the age and gender distribution of patients? Yes
+- Are certain medical conditions concentrated within specific age brackets?
+- Do billing amounts differ meaningfully across age or gender groups for comparable conditions
+
+4. Clinical Testing & Outcomes  
+(Relevant to understanding the distribution of recorded test results across the network.)
+
+- What is the distribution of test results (Normal, Abnormal, Inconclusive) across the network?
+
+5. Hospital Performance  
+(Relevant to comparing facilities and informing budget allocation and staffing discussions.)
+
+- Which hospitals carry the highest  patient volumes?
+- Do average billing amount or length of stay differ meaningfully across hospitals?
+- Which physicians carry the highest patient load?
+
+DELIVERABLES
+
+- An Excel workbook with a dashboard answering the business questions above, including filters by age group and gender
+- Insights of the project explained in easy to understand format
+
+
+
